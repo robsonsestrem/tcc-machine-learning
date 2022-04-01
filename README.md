@@ -1,4 +1,4 @@
-# Pesquisa Descritiva _**PROCESSAMENTO DE DADOS COM ALGORITMO FLORESTA ALEATÓRIA: Uma pesquisa de seu comportamento para prever inadimplência.**_
+# _**PROCESSAMENTO DE DADOS COM ALGORITMO FLORESTA ALEATÓRIA: Uma pesquisa de seu comportamento para prever inadimplência.**_
 
 # Resumo geral
 > O presente trabalho possui o objetivo de construir um classificador por meio de técnicas de Aprendizado de Máquina que se utiliza do algoritmo de floresta aleatória para prever quantos clientes de uma instituição financeira serão inadimplentes no próximo pagamento. O Aprendizado de Máquina se tornou uma ferramenta fundamental para algumas áreas do conhecimento e sua contribuição nas finanças deve ganhar espaço considerável como solução para prever inadimplência.
